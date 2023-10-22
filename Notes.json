@@ -74,6 +74,31 @@
           "tags": ["sql", "database", "delete"]
         }
       ]
+    },
+    {
+      "title": "Git",
+      "content": [
+        {
+          "title": "Clone Repository",
+          "code": "git clone repository_url",
+          "tags": ["git", "version control", "clone"]
+        },
+        {
+          "title": "Commit Changes",
+          "code": "git commit -m 'Commit message'",
+          "tags": ["git", "version control", "commit"]
+        },
+        {
+          "title": "Create Branch",
+          "code": "git checkout -b new_branch_name",
+          "tags": ["git", "version control", "branch"]
+        },
+        {
+          "title": "Merge Branch",
+          "code": "git merge branch_name",
+          "tags": ["git", "version control", "merge"]
+        }
+      ]
     }
   ]
 }
