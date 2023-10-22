@@ -4,25 +4,21 @@
       "title": "Python",
       "content": [
         {
-          "printing", {
-            [
-              "code", "print('Hello, World')",
-              "tags": ["logging", "printing", "python", "py"]
-            ]
-          }
+          "title": "Printing",
+          "code": "print('Hello, World')",
+          "tags": ["logging", "printing", "python", "py"]
         }
-      ],
+      ]
+    },
+    {
       "title": "Javascript",
-          "content": [
-            {
-              "printing", {
-                [
-                  "code", "console.log('Hello, World')",
-                  "tags": ["logging", "printing", "javascript", "js"]
-                ]
-              }
-            }
-          ]
+      "content": [
+        {
+          "title": "Printing",
+          "code": "console.log('Hello, World')",
+          "tags": ["logging", "printing", "javascript", "js"]
+        }
+      ]
     }
   ]
 }
