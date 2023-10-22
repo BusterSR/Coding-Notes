@@ -99,6 +99,61 @@
           "tags": ["git", "version control", "merge"]
         }
       ]
+    },
+    {
+      "title": "Bash",
+      "content": [
+        {
+          "title": "Change Directory (cd)",
+          "code": "cd /path/to/directory",
+          "tags": ["bash", "command", "directory"]
+        },
+        {
+          "title": "Make Directory (mkdir)",
+          "code": "mkdir new_directory",
+          "tags": ["bash", "command", "directory"]
+        },
+        {
+          "title": "Remove Directory (rmdir)",
+          "code": "rmdir directory_name",
+          "tags": ["bash", "command", "directory"]
+        },
+        {
+          "title": "Copy Files (cp)",
+          "code": "cp source_file destination_directory",
+          "tags": ["bash", "command", "file copy"]
+        },
+        {
+          "title": "Move/Rename Files (mv)",
+          "code": "mv old_file_name new_file_name",
+          "tags": ["bash", "command", "file move", "file rename"]
+        },
+        {
+          "title": "Remove Files (rm)",
+          "code": "rm file_name",
+          "tags": ["bash", "command", "file removal"]
+        },
+        {
+          "title": "View File Content (cat)",
+          "code": "cat file_name",
+          "tags": ["bash", "command", "file content"]
+        },
+        {
+          "title": "Search for Text in Files (grep)",
+          "code": "grep 'search_text' file_name",
+          "tags": ["bash", "command", "text search"]
+        },
+        {
+          "title": "View File Permissions (ls -l)",
+          "code": "ls -l file_name",
+          "tags": ["bash", "command", "file permissions"]
+        },
+        {
+          "title": "Execute Script (./)",
+          "code": "./script.sh",
+          "tags": ["bash", "script", "execution"]
+        }
+      ]
     }
   ]
 }
